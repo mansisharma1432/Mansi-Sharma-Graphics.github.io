@@ -1,0 +1,503 @@
+body{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+.top-header{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+.container{
+    width: 1024px;
+    height: auto;
+    background-color: rgb(238, 181, 181);
+    margin: 0 auto;
+
+}
+.header{
+    width: 1024px;
+    height: 150px;
+    background-color: rgb(212, 253, 207);
+    float: left;
+    box-shadow: 0 5px 10px 0;
+    border-radius: 0px 0px 20px 20px;
+    position: relative;
+  
+}
+.pannel{
+    width: 1024px;
+    height: 1020px;
+    background-color: rgb(248, 232, 166);
+    float: left;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 5px 10px 0;
+    margin-top: 10px;
+    
+    
+ 
+}
+.banner{
+    width: 1024px;
+    height: 500px;
+    background-color: rgb(223, 126, 126);
+    border-radius: 10px;
+    float: left;
+    position: relative;
+    margin-top: 10px;
+    box-shadow: 0 5px 10px 0;
+    border-radius: 10px 10px 20px 20px;
+    overflow: hidden;
+    
+}
+.footer{
+    width: 1024px;
+    height: 400px;
+    background-color: rgb(248, 84, 84);
+    float: left;
+    box-shadow: 0 5px 10px 0;
+    border-radius: 10px 10px 20px 20px;
+    margin-top: 10px;
+ 
+}
+.bottom-footer{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(255, 102, 0);
+    float: left;
+    box-shadow: 0 5px 10px 0;
+   
+
+}
+.logo{
+width: 200px;
+height: auto;
+margin-top: 5px;
+margin-left: 30px;
+float: left;
+}
+.logo img{
+    width: 150px;
+    height: 150px;
+}
+.nav{
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+.nav ul li  {
+    background-color: rgb(241, 150, 14);
+    margin: 15px;
+    margin-top: 35px;
+    text-decoration: none;
+    color: aliceblue;
+    height: 34px;
+    width: 114px;
+    border-radius: 5px ;
+    padding-top: 5px;
+   
+}
+.nav ul {
+    display: flex;
+     list-style-type: none;
+}
+.nav ul li:hover{
+background-color: rgb(116, 247, 9);
+}
+.nav ul li a:hover{
+    color: rgb(243, 11, 11);
+    }
+    .nav ul li a{
+        margin: 15px;
+        margin-top: 10px;
+        text-decoration: none;
+        font-size: 19px;
+        color: white;
+    }
+    
+    .box1{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box2{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+       
+        float: left;
+    }
+    .box3{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box4{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box5{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box6{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+       
+        float: left;
+    }
+    .box7{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box8{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box9{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box10{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+       
+        float: left;
+    }
+    .box11{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box12{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box13{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box14{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+       
+        float: left;
+    }
+    .box15{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+    .box16{
+        width:220px;
+        height: 220px;
+    
+        border-radius: 5px;
+        overflow: hidden;
+        margin: 16px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: rgb(248, 232, 166);
+        float: left;
+    }
+
+.box {
+   
+    position: absolute;
+    top: 0;
+    width: 100px;
+    margin-top: 45px;
+    padding-left: 530px;
+    font-size: 35px;
+    font-weight: 1000;
+    text-align: right;
+    font-family: Georgia;
+    color: rgb(252, 134, 0);
+}
+.boxsmall {
+   
+    position: absolute;
+    top: 0;
+    width: 200px;
+    margin-top: 140px;
+    padding-left: 620px;
+    font-size: 20px;
+    font-weight: 1000;
+    text-align: right;
+    font-family: Georgia;
+    color: rgb(21, 252, 0);
+}
+/********** button*************/
+.btn{
+    background-color: black;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    padding-top: 7px;
+     
+}
+.btn a{
+    justify-content: center;
+    align-items: center;
+    
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin: 0 auto;
+
+    
+}
+
+.btn:hover{
+    background-color: rgb(243, 148, 70);
+    color :white;
+}
+.btn a:hover{
+       color :rgb(98, 240, 16);
+}
+.f1 {
+    background-color: rgb(248, 219, 90);
+    height: 400px;
+    width: 256px;
+    float: left;
+    color: rgb(245, 9, 9);
+    overflow: hidden;
+    }
+    h1{
+        text-align: center;
+   
+    }
+    ul li{
+       
+        text-decoration: none;
+        list-style: none;
+        text-align: justify;
+        color: black;
+        
+    }
+   
+    .f2 {
+        background-color: rgb(248, 219, 90);
+        height: 400px;
+        width: 512px;
+        float: left;
+        color: rgb(255, 0, 0);
+        overflow: hidden;
+        }
+        h1{
+            text-align: center;
+        }
+        ul li{
+           
+            text-decoration: none;
+            list-style: none;
+            text-align: justify;
+            color: black;
+            
+        }
+        .name{
+    
+            width: 800px;
+            height: 50px;
+            margin-top: 25px;
+            margin-left: 167px;
+            text-align: left;
+            font-size: 25px;
+            font-family: Georgia,;
+            float: left;
+            
+            
+        }
+        .name a{
+            color: rgb(255, 255, 255);
+            list-style: none;
+            text-decoration: none;
+        }
+        .name a:hover{
+        color: rgb(0, 0, 0);
+        }
+        .name2{
+    
+            width: 1000px;
+            height: 50px;
+            margin-top: 25px;
+            margin-left: 250px;
+            text-align: left;
+            font-size: 25px;
+            font-family: Georgia;
+            color: white;
+            
+        }
+        .banner2{
+            width: 1024px;
+            height: 500px;
+            background-color: rgb(223, 126, 126);
+            border-radius: 10px;
+            float: left;
+            position: relative;
+            margin-top: 10px;
+            box-shadow: 0 5px 10px 0;
+            border-radius: 10px 10px 20px 20px;
+            overflow: hidden;
+        }
+        .rest {
+   
+            position: absolute;
+            top: 0;
+            width: 1000px;
+            margin-top: 256px;
+            padding-top: 90px;
+            font-size: 35px;
+            font-weight: 1000;
+            text-align: right;
+            font-family: Georgia;
+            color: rgb(0, 0, 0);
+            margin: 0 auto;
+        }
+        .logo2 {
+            height: 100px;
+            width: 1024px;
+            display: flex;
+            justify-content: center;
+            margin: 20px;
+        
+        }
+        .logo2 .img1 img{
+            height: 40px;
+            width: 40px;
+            opacity: 60%;
+        }
+        .logo2 .img1 img:hover{
+            opacity: 100%;
+        }
+ 
